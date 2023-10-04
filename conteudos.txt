@@ -1,0 +1,40 @@
+Conteudos:
+Diretorio/Arquivo/Linha
+
+Herança:
+dirh/resposta.h/8
+
+Associação (composição):
+dirh/tabuleiro.h/13
+dirh/tabuleiro.h/14
+dirh/tabuleiro.h/15
+dirh/jogo.h/12
+
+Construtores:
+dirh/jogo.h/19
+dircpp/jogo.cpp/6
+
+Classes:
+dirh/jogo.h/9
+dirh/resposta.h/8
+dirh/sequencia.h/9
+dirh/tabuleiro.h/10
+
+Objetos:
+dircpp/main.cpp/5
+
+Alocação dinâmica com Ponteiros Inteligentes:
+dircpp/jogo.cpp/8
+dircpp/jogo.cpp/67
+
+Sobrecarga de operador:
+dirh/sequencia.h/24
+dircpp/sequencia.cpp/44
+
+Polimorfismo:
+dirh/sequencia.h/18
+dirh/resposta.h/17
+dirh/sequencia.h/19
+dirh/resposta.h/18
+dirh/sequencia.h/20
+dirh/resposta.h/19
